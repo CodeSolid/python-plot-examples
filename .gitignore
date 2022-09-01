@@ -1,0 +1,5 @@
+**/venv
+notes
+**/*.code-workspace
+.ipynb_checkpoints
+
